@@ -1,0 +1,269 @@
+{
+	"scenes" : [
+		{
+			"sceneName" : "IntroText",
+			"sceneDescription" : "You are a police detective in the town of Salem, Massachusetts. 10 minutes ago, the station received a call of a murder at 112 Whitman Drive. You and your partner Shae are now at the scene, ready to start investigating the case.",
+			"sceneID" : -1,
+			"sceneActions" : [
+			],
+			"sceneObjects" : [
+			]
+		},
+		{
+			"sceneName" : "Harry's Living Room",
+			"sceneDescription" : "The inside of the victim's house is covered in witchcraft paraphernalia. In the center of the living room is a large silver pentagram surrounded by candles. There is a large bloodstain on the floor in the center of the pentagram where the body was found. Various witchy objects are strewn about the floor, such as black feathers, candles, powder, and there's even a cauldron over in the corner of the room.",
+			"sceneID" : 1000,
+			"sceneActions" : [
+				"look",
+				"move",
+				"talk",
+				"take",
+				"use"
+			],
+			"sceneObjects" : [
+				3,
+				5,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				14,
+				1004,
+				1009,
+				1003,
+			]
+		},
+		{
+			"sceneName" : "The morgue",
+			"sceneDescription" : "The morgue is a musty old building with lots of blank concrete walls. Nevertheless, Dr. Limmons, the medical examiner, seems cheerful as always.",
+			"sceneID" : 1001,
+			"sceneActions" : [
+				"look",
+				"move",
+				"talk",
+				"use"
+			],
+			"sceneObjects" : [
+				16,
+				17,
+				19,
+				1011
+			]
+		},
+		{
+			"sceneName" : "Car",
+			"sceneDescription" : "My car is an old, red sedan. But it still works just fine.",
+			"sceneID" : 1100,
+			"sceneActions" : [
+				"look",
+				"move",
+				"talk",
+				"use"
+			],
+			"sceneObjects" : [
+				1002,
+				1011
+			]
+		},
+		{
+			"sceneName" : "Harry's House",
+			"sceneDescription" : "",
+			"sceneID" : 1002,
+			"sceneActions" : [
+				"look",
+				"move",
+				"talk",
+			],
+			"sceneObjects" : [
+				1000,
+				1100
+			]
+		},
+		{
+			"sceneName" : "Harry's Kitchen",
+			"sceneDescription" : "",
+			"sceneID" : 1003,
+			"sceneActions" : [
+				"look",
+				"move",
+				"talk",
+				"take",
+				"use"
+			],
+			"sceneObjects" : [
+				1,
+				24,
+				25,
+				26,
+				27
+				1000,
+				1004
+			]
+		},
+		{
+			"sceneName" : "Harry's Bedroom",
+			"sceneDescription" : "",
+			"sceneID" : 1004,
+			"sceneActions" : [
+				"look",
+				"move",
+				"talk",
+				"take",
+				"use"
+			],
+			"sceneObjects" : [
+				30,
+				31,
+				32,
+				1000,
+				1003
+			]
+		},
+		{
+			"sceneName" : "Shae's House",
+			"sceneDescription" : "",
+			"sceneID" : 1005,
+			"sceneActions" : [
+				"look",
+				"move",
+				"talk",
+				"take",
+				"use"
+			],
+			"sceneObjects" : [
+				1100,
+				1006
+			]
+		},
+		{
+			"sceneName" : "Shae's Living Room",
+			"sceneDescription" : "",
+			"sceneID" : 1006,
+			"sceneActions" : [
+				"look",
+				"move",
+				"talk",
+				"take",
+				"use"
+			],
+			"sceneObjects" : [
+				33,
+				36,
+				37,
+				38,
+				39,
+				1010,
+				1007,
+				1008
+			]
+		},
+		{
+			"sceneName" : "Shae's Kitchen",
+			"sceneDescription" : "",
+			"sceneID" : 1007,
+			"sceneActions" : [
+				"look",
+				"move",
+				"talk",
+				"take",
+				"use"
+			],
+			"sceneObjects" : [
+				41,
+				42,
+				43,
+				1006,
+				1008
+			]
+		},
+		{
+			"sceneName" : "Shae's Bedroom",
+			"sceneDescription" : "",
+			"sceneID" : 1008,
+			"sceneActions" : [
+				"look",
+				"move",
+				"talk",
+				"take",
+				"use"
+			],
+			"sceneObjects" : [
+				44,
+				45,
+				1006,
+				1007
+			]
+		},
+		{
+			"sceneName" : "Outside Harry's House",
+			"sceneDescription" : "",
+			"sceneID" : 1009,
+			"sceneActions" : [
+				"look",
+				"move",
+				"talk",
+				"take",
+				"use"
+			],
+			"sceneObjects" : [
+				1000,
+				1100
+			]
+		},
+		{
+			"sceneName" : "Outside Shae's House",
+			"sceneDescription" : "",
+			"sceneID" : 1010,
+			"sceneActions" : [
+				"look",
+				"move",
+				"talk",
+				"take",
+				"use"
+			],
+			"sceneObjects" : [
+				1006,
+				1100
+			]
+		},
+		{
+			"sceneName" : "Police Station",
+			"sceneDescription" : "",
+			"sceneID" : 1011,
+			"sceneActions" : [
+				"look",
+				"move",
+				"talk",
+				"take",
+				"use"
+			],
+			"sceneObjects" : [
+				46,
+				47,
+				48,
+				1001,
+				1012,
+				1100
+			]
+		},
+		{
+			"sceneName" : "Forensics Lab",
+			"sceneDescription" : "",
+			"sceneID" : 1012,
+			"sceneActions" : [
+				"look",
+				"move",
+				"talk",
+				"take",
+				"use"
+			],
+			"sceneObjects" : [
+				1011,
+				50,
+				22
+			]
+		},
+	]
+}

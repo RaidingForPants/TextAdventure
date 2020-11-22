@@ -1,0 +1,5 @@
+package support;
+
+public enum ObjectType {
+	ARMOR, DECORATION, ITEM, LOCATION, MAGIC, MONSTER, NOTHING, OBJECT, PERSON, WEAPON
+}

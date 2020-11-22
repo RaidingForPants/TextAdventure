@@ -1,0 +1,706 @@
+{
+	"interactions" : [
+	
+
+	
+		{
+			"objectID1" : 7,
+			"objectID2" : 12,
+			"description" : "Shae says, \"If you want to know more about witchcraft we can stop by my house.\"",
+			"verbType" : "use",
+			"sceneChanges" : [
+				{
+					"sceneID" : 1000,
+					"objectID" : 12,
+					"type" : "remove"
+				},
+				{
+					"sceneID" : 1000,
+					"objectID" : 13,
+					"type" : "add"
+				},
+				{
+					"sceneID" : 1100,
+					"objectID" : 1005,
+					"type" : "add"
+				}
+			]
+		},
+		{
+			"objectID1" : 8,
+			"objectID2" : 12,
+			"description" : "Shae says, \"If you want to know more about witchcraft we can stop by my house.\"",
+			"verbType" : "use",
+			"sceneChanges" : [
+				{
+					"sceneID" : 1000,
+					"objectID" : 12,
+					"type" : "remove"
+				},
+				{
+					"sceneID" : 1000,
+					"objectID" : 13,
+					"type" : "add"
+				},
+				{
+					"sceneID" : 1100,
+					"objectID" : 1005,
+					"type" : "add"
+				}
+
+			]
+		},
+		{
+			"objectID1" : 9,
+			"objectID2" : 12,
+			"description" : "Shae says, \"If you want to know more about witchcraft we can stop by my house.\"",
+			"verbType" : "use",
+			"sceneChanges" : [
+				{
+					"sceneID" : 1000,
+					"objectID" : 12,
+					"type" : "remove"
+				},
+				{
+					"sceneID" : 1000,
+					"objectID" : 13,
+					"type" : "add"
+				},
+				{
+					"sceneID" : 1100,
+					"objectID" : 1005,
+					"type" : "add"
+				}
+
+			]
+		},
+		{
+			"objectID1" : 10,
+			"objectID2" : 12,
+			"description" : "Shae says, \"If you want to know more about witchcraft we can stop by my house.\"",
+			"verbType" : "use",
+			"sceneChanges" : [
+				{
+					"sceneID" : 1000,
+					"objectID" : 12,
+					"type" : "remove"
+				},
+				{
+					"sceneID" : 1000,
+					"objectID" : 13,
+					"type" : "add"
+				},
+				{
+					"sceneID" : 1100,
+					"objectID" : 1005,
+					"type" : "add"
+				}
+
+			]
+		},
+		{
+			"objectID1" : 5,
+			"objectID2" : 0,
+			"description" : "There seems to be a key in between the couch cushions.",
+			"verbType" : "look",
+			"sceneChanges" : [
+				{
+					"sceneID" : 1000,
+					"objectID" : 5,
+					"type" : "remove"
+				},
+				{
+					"sceneID" : 1000,
+					"objectID" : 6,
+					"type" : "add"
+				},
+				{
+					"sceneID" : 1000,
+					"objectID" : 15,
+					"type" : "add"
+				}
+			]
+		},
+		{
+			"objectID1" : 5,
+			"objectID2" : 0,
+			"description" : "You sit down on the couch. Shae gives you a look that says \"You shouldn't be doing that\".",
+			"verbType" : "use",
+			"sceneChanges" : [
+				
+			]
+		},
+		{
+			"objectID1" : 6,
+			"objectID2" : 0,
+			"description" : "You sit down on the couch. Shae gives you a look that says \"You shouldn't be doing that\".",
+			"verbType" : "use",
+			"sceneChanges" : [
+				
+			]
+		},
+		{
+			"objectID1" : 22,
+			"objectID2" : 1,
+			"description" : "The swab turns a pink color! There are traces of blood on the edge of the table.",
+			"verbType" : "use",
+			"sceneChanges" : [
+				{
+					"sceneID" : 1003,
+					"objectID" : 1,
+					"type" : "remove"
+				},
+				{
+					"sceneID" : 1003,
+					"objectID" : 2,
+					"type" : "add"
+				}
+			]
+		},
+		{
+			"objectID1" : 22,
+			"objectID2" : 3,
+			"description" : "The swab doesn't change color. There are no traces of blood on the cauldron.",
+			"verbType" : "use",
+			"sceneChanges" : [
+				{
+					"sceneID" : 1000,
+					"objectID" : 3,
+					"type" : "remove"
+				},
+				{
+					"sceneID" : 1000,
+					"objectID" : 4,
+					"type" : "add"
+				}
+			]
+		},
+		
+
+		
+		{
+			"objectID1" : 17,
+			"objectID2" : 0,
+			"description" : "You get the report from Dr. Limmons. He also hands you a blood test kit. \"Use this to find traces of blood at the crime scene. It'll help you find the murder weapon\".",
+			"verbType" : "talk",
+			"sceneChanges" : [
+				{
+					"sceneID" : 1001,
+					"objectID" : 17,
+					"type" : "remove"
+				},
+				{
+					"sceneID" : 1001,
+					"objectID" : 19,
+					"type" : "remove"
+				},
+				{
+					"sceneID" : 1001,
+					"objectID" : 20,
+					"type" : "remove"
+				},
+				{
+					"sceneID" : 1001,
+					"objectID" : 18,
+					"type" : "add"
+				},
+				{
+					"sceneID" : 1001,
+					"objectID" : 21,
+					"type" : "add"
+				},
+				{
+					"sceneID" : 0,
+					"objectID" : 22,
+					"type" : "add"
+				},
+				{
+					"sceneID" : 0,
+					"objectID" : 23,
+					"type" : "add"
+				}
+			]
+		},
+		{
+			"objectID1" : 19,
+			"objectID2" : 0,
+			"description" : "",
+			"verbType" : "talk",
+			"sceneChanges" : [
+				{
+					"sceneID" : 1001,
+					"objectID" : 19,
+					"type" : "remove"
+				},
+				{
+					"sceneID" : 1001,
+					"objectID" : 20,
+					"type" : "add"
+				}
+			]
+		},
+		{
+			"objectID1" : 20,
+			"objectID2" : 0,
+			"description" : "Shae gets the report from Dr. Limmons and reads it over before handing it to you.",
+			"verbType" : "talk",
+			"sceneChanges" : [
+				{
+					"sceneID" : 1001,
+					"objectID" : 20,
+					"type" : "remove"
+				},
+				{
+					"sceneID" : 1001,
+					"objectID" : 17,
+					"type" : "remove"
+				},
+				{
+					"sceneID" : 1001,
+					"objectID" : 21,
+					"type" : "add"
+				},
+				{
+					"sceneID" : 0,
+					"objectID" : 23,
+					"type" : "add"
+				},
+				{
+					"sceneID" : 1001,
+					"objectID" : 18,
+					"type" : "add"
+				}
+			]
+		},
+		{
+			"objectID1" : 22,
+			"objectID2" : 11,
+			"description" : "This bloodstain is definitely blood.",
+			"verbType" : "use",
+			"sceneChanges" : [
+				
+			]
+		},
+		
+		{
+			"objectID1" : 29,
+			"objectID2" : 50,
+			"description" : "Audrey puts on a pair of gloves and gleefully takes the empty bottle from you. \"Please wait right here,\" she says, \"I'll dust it for prints and get right back to you.\" She returns several minutes later, beaming. \"It looks like there are fingerprints on here belonging to one Jen Spieler!,\" she announces triumphantly.",
+			"verbType" : "use",
+			"sceneChanges" : [
+				{
+					"sceneID" : 0,
+					"objectID" : 29,
+					"type" : "remove"
+				},
+				{
+					"sceneID" : 0,
+					"objectID" : 53,
+					"type" : "add"
+				},
+				{
+					"sceneID" : 1011,
+					"objectID" : 49,
+					"type" : "add"
+				}
+			]
+		},
+		{
+			"objectID1" : 22,
+			"objectID2" : 5,
+			"description" : "There is no blood on the couch",
+			"verbType" : "use",
+			"sceneChanges" : [
+				
+			]
+		},
+		{
+			"objectID1" : 22,
+			"objectID2" : 6,
+			"description" : "There is no blood on the couch",
+			"verbType" : "use",
+			"sceneChanges" : [
+				
+			]
+		},
+		{
+			"objectID1" : 22,
+			"objectID2" : 24,
+			"description" : "There is no blood on the knives",
+			"verbType" : "use",
+			"sceneChanges" : [
+				
+			]
+		},
+		{
+			"objectID1" : 22,
+			"objectID2" : 25,
+			"description" : "There is no blood on the refrigerator",
+			"verbType" : "use",
+			"sceneChanges" : [
+				
+			]
+		},
+		{
+			"objectID1" : 22,
+			"objectID2" : 26,
+			"description" : "There is no blood in the sink",
+			"verbType" : "use",
+			"sceneChanges" : [
+				
+			]
+		},
+		{
+			"objectID1" : 22,
+			"objectID2" : 27,
+			"description" : "There is no blood on the trash can",
+			"verbType" : "use",
+			"sceneChanges" : [
+				
+			]
+		},
+		{
+			"objectID1" : 22,
+			"objectID2" : 28,
+			"description" : "There is no blood on the trash can",
+			"verbType" : "use",
+			"sceneChanges" : [
+				
+			]
+		},
+		{
+			"objectID1" : 22,
+			"objectID2" : 29,
+			"description" : "There is no blood on the bleach bottle",
+			"verbType" : "use",
+			"sceneChanges" : [
+				
+			]
+		},
+		{
+			"objectID1" : 22,
+			"objectID2" : 30,
+			"description" : "There is no blood on the bed",
+			"verbType" : "use",
+			"sceneChanges" : [
+				
+			]
+		},
+		{
+			"objectID1" : 22,
+			"objectID2" : 31,
+			"description" : "There is no blood on the nightstand",
+			"verbType" : "use",
+			"sceneChanges" : [
+				
+			]
+		},
+		{
+			"objectID1" : 22,
+			"objectID2" : 32,
+			"description" : "There is no blood on the television",
+			"verbType" : "use",
+			"sceneChanges" : [
+				
+			]
+		},
+		{
+			"objectID1" : 7,
+			"objectID2" : 33,
+			"description" : "Shae looks at the feathers, turning them over in her hands. \"These are raven feathers,\" she explains, \"typically used as a focus in divination magic: stuff that gathers information or sees the future. Plus, you'd only need one. It doesn't make sense for these to be all over the floor.\"",
+			"verbType" : "use",
+			"sceneChanges" : [
+				{
+					"sceneID" : 1006,
+					"objectID" : 33,
+					"type" : "remove"
+				},
+				{
+					"sceneID" : 0,
+					"objectID" : 7,
+					"type" : "remove"
+				},
+				{
+					"sceneID" : 1006,
+					"objectID" : 34,
+					"type" : "add"
+				}
+			]
+		},
+		{
+			"objectID1" : 7,
+			"objectID2" : 34,
+			"description" : "Shae looks at the feathers, turning them over in her hands. \"These are raven feathers,\" she explains, \"typically used as a focus in divination magic: stuff that gathers information or sees the future. Plus, you'd only need one. It doesn't make sense for these to be all over the floor.\"",
+			"verbType" : "use",
+			"sceneChanges" : [
+				{
+					"sceneID" : 0,
+					"objectID" : 7,
+					"type" : "remove"
+				}
+			]
+		},
+		{
+			"objectID1" : 7,
+			"objectID2" : 35,
+			"description" : "Shae looks at the feathers, turning them over in her hands. \"These are raven feathers,\" she explains, \"typically used as a focus in divination magic: stuff that gathers information or sees the future. Plus, you'd only need one. It doesn't make sense for these to be all over the floor.\"",
+			"verbType" : "use",
+			"sceneChanges" : [
+				{
+					"sceneID" : 0,
+					"objectID" : 7,
+					"type" : "remove"
+				}
+			]
+		},
+		{
+			"objectID1" : 8,
+			"objectID2" : 33,
+			"description" : "Shae pinches a little bit of the powder in between her thumb and index finger and rubs them together. Then she sticks her finger in her mouth before quickly recoiling. \"Bleh, definitely talcum powder. This stuff is used for when you need to empower a certain area with magic, such as if you want crops to grow. The pentagram design is very potent but typically not used anymore.\"",
+			"verbType" : "use",
+			"sceneChanges" : [
+				{
+					"sceneID" : 1006,
+					"objectID" : 33,
+					"type" : "remove"
+				},
+				{
+					"sceneID" : 0,
+					"objectID" : 8,
+					"type" : "remove"
+				},
+				{
+					"sceneID" : 1006,
+					"objectID" : 34,
+					"type" : "add"
+				}
+			]
+		},
+		{
+			"objectID1" : 8,
+			"objectID2" : 34,
+			"description" : "Shae pinches a little bit of the powder in between her thumb and index finger and rubs them together. Then she sticks her finger in her mouth before quickly recoiling. \"Bleh, definitely talcum powder. This stuff is used for when you need to empower a certain area with magic, such as if you want crops to grow. The pentagram design is very potent but typically not used anymore.\"",
+			"verbType" : "use",
+			"sceneChanges" : [
+				{
+					"sceneID" : 0,
+					"objectID" : 8,
+					"type" : "remove"
+				}
+			]
+		},
+		{
+			"objectID1" : 8,
+			"objectID2" : 35,
+			"description" : "Shae pinches a little bit of the powder in between her thumb and index finger and rubs them together. Then she sticks her finger in her mouth before quickly recoiling. \"Bleh, definitely talcum powder. This stuff is used for when you need to empower a certain area with magic, such as if you want crops to grow. The pentagram design is very potent but typically not used anymore.\"",
+			"verbType" : "use",
+			"sceneChanges" : [
+				{
+					"sceneID" : 0,
+					"objectID" : 8,
+					"type" : "remove"
+				}
+			]
+		},
+		{
+			"objectID1" : 10,
+			"objectID2" : 33,
+			"description" : "Shae takes the candle. \"That's just a regular-ass candle my dude. Those things aren't even used in witchcraft, I have no idea what they were doing at the crime scene.\"",
+			"verbType" : "use",
+			"sceneChanges" : [
+				{
+					"sceneID" : 1006,
+					"objectID" : 33,
+					"type" : "remove"
+				},
+				{
+					"sceneID" : 0,
+					"objectID" : 10,
+					"type" : "remove"
+				},
+				{
+					"sceneID" : 1006,
+					"objectID" : 34,
+					"type" : "add"
+				}
+			]
+		},
+		{
+			"objectID1" : 10,
+			"objectID2" : 34,
+			"description" : "Shae takes the candle. \"That's just a regular-ass candle my dude. Those things aren't even used in witchcraft, I have no idea what they were doing at the crime scene.\"",
+			"verbType" : "use",
+			"sceneChanges" : [
+				{
+					"sceneID" : 0,
+					"objectID" : 10,
+					"type" : "remove"
+				}
+			]
+		},
+		{
+			"objectID1" : 10,
+			"objectID2" : 35,
+			"description" : "Shae takes the candle. \"That's just a regular-ass candle my dude. Those things aren't even used in witchcraft, I have no idea what they were doing at the crime scene.\"",
+			"verbType" : "use",
+			"sceneChanges" : [
+				{
+					"sceneID" : 0,
+					"objectID" : 10,
+					"type" : "remove"
+				}
+			]
+		},
+		{
+			"objectID1" : 40,
+			"objectID2" : 33,
+			"description" : "Shae looks at the book, then back at you. \"Are you implying something? Look, I promise I'm not one of those witchcraft obsessed weirdos.\" \n \"Why do I have these books then? And know so much about witchcraft?\" Shae looks down and fidgets with her hands. She says, \"You've been my partner for almost three years now and I consider you my best friend. So will you please hear me out?\" \n\"Okay good,\" Shae sighs. \"I am a witch. Like an actual witch. I can use real magic, see?\" Shae mutters a handful of strange words you can't understand and the book levitates in the air a few inches above her hand.",
+			"verbType" : "use",
+			"sceneChanges" : [
+				{
+					"sceneID" : 1006,
+					"objectID" : 33,
+					"type" : "remove"
+				},
+				{
+					"sceneID" : 0,
+					"objectID" : 40,
+					"type" : "remove"
+				},
+				{
+					"sceneID" : 1006,
+					"objectID" : 35,
+					"type" : "add"
+				}
+			]
+		},
+		{
+			"objectID1" : 40,
+			"objectID2" : 34,
+			"description" : "Shae looks at the book, then back at you. \"Are you implying something? Look, I promise I'm not one of those witchcraft obsessed weirdos.\" \n \"Why do I have these books then? And know so much about witchcraft?\" Shae looks down and fidgets with her hands. She says, \"You've been my partner for almost three years now and I consider you my best friend. So will you please hear me out?\" \n\"Okay good,\" Shae sighs. \"I am a witch. Like an actual witch. I can use real magic, see?\" Shae mutters a handful of strange words you can't understand and the book levitates in the air a few inches above her hand.",
+			"verbType" : "use",
+			"sceneChanges" : [
+				{
+					"sceneID" : 1006,
+					"objectID" : 34,
+					"type" : "remove"
+				},
+				{
+					"sceneID" : 0,
+					"objectID" : 40,
+					"type" : "remove"
+				},
+				{
+					"sceneID" : 1006,
+					"objectID" : 35,
+					"type" : "add"
+				}
+			]
+		},
+		{
+			"objectID1" : 32,
+			"objectID2" : 0,
+			"description" : "You realize it would be quite rude to use a dead man's things.",
+			"verbType" : "use",
+			"sceneChanges" : [
+				
+			]
+		},
+		{
+			"objectID1" : 27,
+			"objectID2" : 0,
+			"description" : "Inside the trash can there is an empty bottle of bleach.",
+			"verbType" : "look",
+			"sceneChanges" : [
+				{
+					"sceneID" : 1003,
+					"objectID" : 27,
+					"type" : "remove"
+				},
+				{
+					"sceneID" : 1003,
+					"objectID" : 29,
+					"type" : "add"
+				},
+				{
+					"sceneID" : 1003,
+					"objectID" : 28,
+					"type" : "add"
+				}
+			]
+		},
+		{
+			"objectID1" : 30,
+			"objectID2" : 0,
+			"description" : "You realize it would be quite rude to try to sleep in a dead man's bed.",
+			"verbType" : "use",
+			"sceneChanges" : [
+				
+			]
+		},
+		{
+			"objectID1" : 37,
+			"objectID2" : 0,
+			"description" : "You sit down on the old couch. Shae flops down next to you.",
+			"verbType" : "use",
+			"sceneChanges" : [
+				
+			]
+		},
+		{
+			"objectID1" : 38,
+			"objectID2" : 0,
+			"description" : "You pick up the remote control and turn on the television. \"Ugh,\" Shae moans, \"Good luck finding anything good on. Daytime television fuckin' sucks dude.\"",
+			"verbType" : "use",
+			"sceneChanges" : [
+				{
+					"sceneID" : 1006,
+					"objectID" : 38,
+					"type" : "remove"
+				}
+			]
+		},
+		{
+			"nickname" : "looking through Shae's bookshelf and you find a book",
+			"objectID1" : 39,
+			"objectID2" : 0,
+			"description" : "",
+			"verbType" : "look",
+			"sceneChanges" : [
+				{
+					"sceneID" : 1006,
+					"objectID" : 39,
+					"type" : "remove"
+				},
+				{
+					"sceneID" : 1006,
+					"objectID" : 54,
+					"type" : "add"
+				},
+				{
+					"sceneID" : 1006,
+					"objectID" : 40,
+					"type" : "add"
+				}
+			]
+		},
+		{
+			"objectID1" : 43,
+			"objectID2" : 0,
+			"description" : "You sit down in the chair. It's a little wobbly but otherwise fine.",
+			"verbType" : "use",
+			"sceneChanges" : [
+				
+			]
+		},
+		{
+			"objectID1" : 44,
+			"objectID2" : 0,
+			"description" : "Shae's bed looks very warm and inviting, but it's probably not the best idea to take a nap right now.",
+			"verbType" : "use",
+			"sceneChanges" : [
+				
+			]
+		}
+	]
+}

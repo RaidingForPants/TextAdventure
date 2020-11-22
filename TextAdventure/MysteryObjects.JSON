@@ -1,0 +1,596 @@
+{
+
+
+
+	"1" : {
+		"objectName" : "table",
+		"objectDescription" : "Just a standard, wooden dining room table. Very solid construction.",
+		"objectID" : 1,
+		"objectDialogue" : "None",
+		"objectType" : "decoration",
+		"consumable" : false
+	},
+	"2" : {
+		"objectName" : "table",
+		"objectDescription" : "A standard, wooden dining room table. But with traces of blood on it.",
+		"objectID" : 2,
+		"objectDialogue" : "None",
+		"objectType" : "decoration",
+		"consumable" : false
+	},
+	"3" : {
+		"objectName" : "cauldron",
+		"objectDescription" : "This is a very large black cauldron. It's empty, and sadly turns out to be made of plastic.",
+		"objectID" : 3,
+		"objectDialogue" : "None",
+		"objectType" : "decoration",
+		"consumable" : false
+	},
+	"4" : {
+		"objectName" : "cauldron",
+		"objectDescription" : "This is a very large black plastic cauldron. There are no traces of blood on it.",
+		"objectID" : 4,
+		"objectDialogue" : "None",
+		"objectType" : "decoration",
+		"consumable" : false
+	},
+	"5" : {
+		"objectName" : "couch",
+		"objectDescription" : "This beaten-up leather loveseat has clearly seen better days.",
+		"objectID" : 5,
+		"objectDialogue" : "None",
+		"objectType" : "object",
+		"consumable" : false
+	},
+	"6" : {
+		"objectName" : "couch",
+		"objectDescription" : "This beaten-up leather loveseat has clearly seen better days. I found a key in the cushions earlier.",
+		"objectID" : 6,
+		"objectDialogue" : "None",
+		"objectType" : "object",
+		"consumable" : false
+	},
+	"7" : {
+		"objectName" : "feathers",
+		"objectDescription" : "These black feathers are scattered all over the floor. They're probably from a crow or raven.",
+		"objectID" : 7,
+		"objectDialogue" : "None",
+		"objectType" : "item",
+		"consumable" : false
+	},
+	"8" : {
+		"objectName" : "powder",
+		"objectDescription" : "This bowl of mysterious silvery powder is probably what was used to draw the pentagram.",
+		"objectID" : 8,
+		"objectDialogue" : "None",
+		"objectType" : "item",
+		"consumable" : false
+	},
+	"9" : {
+		"objectName" : "pentagram",
+		"objectDescription" : "This pentagram was drawn on the floor using a silvery powder. It is about 5 feet across and surrounded by unlit candles.",
+		"objectID" : 9,
+		"objectDialogue" : "None",
+		"objectType" : "decoration",
+		"consumable" : false
+	},
+	"10" : {
+		"objectName" : "candles",
+		"objectDescription" : "There doesn't seem to be anything special about these candles.",
+		"objectID" : 10,
+		"objectDialogue" : "None",
+		"objectType" : "item",
+		"consumable" : false
+	},
+	"11" : {
+		"objectName" : "bloodstain",
+		"objectDescription" : "The bloodstain is a dried up puddle of blood on the floor. Curiously, it appears as though the pentagram was drawn over the blood.",
+		"objectID" : 11,
+		"objectDialogue" : "None",
+		"objectType" : "decoration",
+		"consumable" : false
+	},
+	"12" : {
+		"objectName" : "shae",
+		"objectDescription" : "Your partner, Shae Duskwallow. She is wearing a baggy gray t-shirt and black slacks. She never was one to dress professionally.",
+		"objectID" : 12,
+		"objectDialogue" : "Shae says, \"This place sure is filled with stereotypical witchy stuff\"",
+		"objectType" : "person",
+		"consumable" : false
+	},
+	"13" : {
+		"objectName" : "shae",
+		"objectDescription" : "Your partner, Shae Duskwallow. She is wearing a baggy gray t-shirt and black slacks. She never was one to dress professionally.",
+		"objectID" : 13,
+		"objectDialogue" : "Shae says, \"This place sure is filled with stereotypical witchy stuff\"",
+		"objectType" : "person",
+		"consumable" : false
+	},
+	"14" : {
+		"objectName" : "neighbor",
+		"objectDescription" : "The neighbor who found the body. She is a frail, middle-aged woman with frizzy brown hair.",
+		"objectID" : 14,
+		"objectDialogue" : "The neighbor says, \"When I found him, I immediately called the police. I was just coming over to return the dish from the last potluck we had when I saw him through the window laying motionless on the floor. He was holding a knife in his stomach, do you think the poor guy killed himself?\"",
+		"objectType" : "person",
+		"consumable" : false
+	},
+	"15" : {
+		"objectName" : "key",
+		"objectDescription" : "This small brass key has the letters \"AQ\" etched into it.",
+		"objectID" : 15,
+		"objectDialogue" : "None",
+		"objectType" : "item",
+		"consumable" : true
+	},
+	
+
+	
+	"16" : {
+		"objectName" : "body",
+		"objectDescription" : "Harry Kalbert's dead body lies on the examination table, lifeless.",
+		"objectID" : 16,
+		"objectDialogue" : "None",
+		"objectType" : "decoration",
+		"consumable" : false
+	},
+	"17" : {
+		"objectName" : "Limmons",
+		"objectDescription" : "Dr. Henry Limmons, the medical examiner. He's strangely peppy and always wears a lab coat, even when he's not working.",
+		"objectID" : 17,
+		"objectDialogue" : "Dr. Limmons says, \"It looks like Mr. Kalbert died from blunt force trauma to the back of the head. Time of death is about 6-11 PM last night. He's been stabbed through his chest but it happened after he died; probably an amateur attempt to disguise the cause of death.\"",
+		"objectType" : "person",
+		"consumable" : false
+	},
+	"18" : {
+		"objectName" : "Limmons",
+		"objectDescription" : "Dr. Henry Limmons, the medical examiner. He's strangely peppy and always wears a lab coat, even when he's not working.",
+		"objectID" : 18,
+		"objectDialogue" : "Dr. Limmons says, \"My job here is done! You two detectives better get to solving this mystery.\"",
+		"objectType" : "person",
+		"consumable" : false
+	},
+	"19" : {
+		"objectName" : "shae",
+		"objectDescription" : "Your partner, Shae Duskwallow. She is wearing a baggy gray t-shirt and black slacks. She never was one to dress professionally.",
+		"objectID" : 19,
+		"objectDialogue" : "She gestures, \"Go on, ask him for the report.\"",
+		"objectType" : "person",
+		"consumable" : false
+	},
+	"20" : {
+		"objectName" : "shae",
+		"objectDescription" : "Your partner, Shae Duskwallow. She is wearing a baggy gray t-shirt and black slacks. She never was one to dress professionally.",
+		"objectID" : 20,
+		"objectDialogue" : "Shae sighs, \"Fine, I'll ask him for the report.\"",
+		"objectType" : "person",
+		"consumable" : false
+	},
+	"21" : {
+		"objectName" : "shae",
+		"objectDescription" : "Your partner, Shae Duskwallow. She is wearing a baggy gray t-shirt and black slacks. She never was one to dress professionally.",
+		"objectID" : 21,
+		"objectDialogue" : "Shae whispers, \"I knew it wasn't really witchcraft; even dark magic isn't that dark\"",
+		"objectType" : "person",
+		"consumable" : false
+	},
+	"22" : {
+		"objectName" : "blood_test",
+		"objectDescription" : "A vial of liquid and package of cotton swabs used to test for traces of blood on objects.",
+		"objectID" : 22,
+		"objectDialogue" : "None",
+		"objectType" : "item",
+		"consumable" : false
+	},
+	"23" : {
+		"objectName" : "death_report",
+		"objectDescription" : "Data on the cause and time of death. The victim died between 6 and 11 PM last night and the cause of death was blunt force trauma to the back of the head.",
+		"objectID" : 23,
+		"objectDialogue" : "None",
+		"objectType" : "object",
+		"consumable" : false
+	},
+	
+	
+	
+	"24" : {
+		"objectName" : "knife_block",
+		"objectDescription" : "A block of fancy kitchen knives.",
+		"objectID" : 24,
+		"objectDialogue" : "None",
+		"objectType" : "object",
+		"consumable" : false
+	},
+	"25" : {
+		"objectName" : "refrigerator",
+		"objectDescription" : "A shiny metal refrigerator.",
+		"objectID" : 25,
+		"objectDialogue" : "None",
+		"objectType" : "object",
+		"consumable" : false
+	},
+	"26" : {
+		"objectName" : "sink",
+		"objectDescription" : "A regular kitchen sink.",
+		"objectID" : 26,
+		"objectDialogue" : "None",
+		"objectType" : "object",
+		"consumable" : false
+	},
+	"27" : {
+		"objectName" : "trashcan",
+		"objectDescription" : "A white plastic trash bin. There seems to be an empty container of bleach inside.",
+		"objectID" : 27,
+		"objectDialogue" : "None",
+		"objectType" : "object",
+		"consumable" : false
+	},
+	"28" : {
+		"objectName" : "trashcan",
+		"objectDescription" : "A white plastic trash bin. Nothing of interest in here.",
+		"objectID" : 28,
+		"objectDialogue" : "None",
+		"objectType" : "object",
+		"consumable" : false
+	},
+	"29" : {
+		"objectName" : "empty_bottle",
+		"objectDescription" : "An empty container of bleach.",
+		"objectID" : 29,
+		"objectDialogue" : "None",
+		"objectType" : "item",
+		"consumable" : false
+	},
+	
+	
+	
+	
+	"30" : {
+		"objectName" : "bed",
+		"objectDescription" : "Harry's bed. It is neatly made. There doesn't seem to be anything underneath.",
+		"objectID" : 30,
+		"objectDialogue" : "None",
+		"objectType" : "object",
+		"consumable" : false
+	},
+	"31" : {
+		"objectName" : "nightstand",
+		"objectDescription" : "A mahogany wooden nightstand. An alarm clock sits on top.",
+		"objectID" : 31,
+		"objectDialogue" : "None",
+		"objectType" : "decoration",
+		"consumable" : false
+	},
+	"32" : {
+		"objectName" : "television",
+		"objectDescription" : "A medium-sized flatscreen TV. It is hung up on the wall for viewing in bed.",
+		"objectID" : 32,
+		"objectDialogue" : "None",
+		"objectType" : "object",
+		"consumable" : false
+	},
+	
+	
+	
+	"33" : {
+		"nickname" : "baseline shae",
+		"objectName" : "shae",
+		"objectDescription" : "Your partner, Shae Duskwallow. She is wearing a baggy gray t-shirt and black slacks. She never was one to dress professionally.",
+		"objectID" : 33,
+		"objectDialogue" : "Shae asks, \"What was it you wanted to talk to me about?\"",
+		"objectType" : "person",
+		"consumable" : false
+	},
+	"34" : {
+		"nickname" : "Shae after you give her an item",
+		"objectName" : "shae",
+		"objectDescription" : "Your partner, Shae Duskwallow. She is wearing a baggy gray t-shirt and black slacks. She never was one to dress professionally.",
+		"objectID" : 34,
+		"objectDialogue" : "\"How do I know so much about witchcraft? Well, that's my little secret,\" Shae says, winking slyly.",
+		"objectType" : "person",
+		"consumable" : false
+	},
+	"35" : {
+		"nickname" : "Shae after you give her the book",
+		"objectName" : "shae",
+		"objectDescription" : "Your partner, Shae Duskwallow. She is wearing a baggy gray t-shirt and black slacks. She never was one to dress professionally.",
+		"objectID" : 35,
+		"objectDialogue" : "\"You'd better not tell anyone,\" Shae teases, \"or I'll put a hex on you.\"",
+		"objectType" : "person",
+		"consumable" : false
+	}, 
+	
+	"36" : {
+		"objectName" : "coffee_table",
+		"objectDescription" : "A cheap, wooden coffee table. It has a couple coffee stains on it.",
+		"objectID" : 36,
+		"objectDialogue" : "None",
+		"objectType" : "decoration",
+		"consumable" : false
+	},
+	"37" : {
+		"objectName" : "couch",
+		"objectDescription" : "An old, sagging leather couch. I recall Shae saying she bought a couch at a yard sale, perhaps this is it.",
+		"objectID" : 37,
+		"objectDialogue" : "None",
+		"objectType" : "object",
+		"consumable" : false
+	},
+	"38" : {
+		"objectName" : "television",
+		"objectDescription" : "A tiny flatscreen TV positioned on top of a small white bookshelf.",
+		"objectID" : 38,
+		"objectDialogue" : "\"You'd better not tell anyone,\" Shae teases, \"or I'll put a hex on you.\"",
+		"objectType" : "object",
+		"consumable" : false
+	},
+	"39" : {
+		"objectName" : "bookshelf",
+		"objectDescription" : "The bookshelf contains some DVDs and a series of plain looking books titled \"Beginner's Guide to Witchcraft\"",
+		"objectID" : 39,
+		"objectDialogue" : "None",
+		"objectType" : "decoration",
+		"consumable" : false
+	},
+	"40" : {
+		"objectName" : "book",
+		"objectDescription" : "A book titled \"A Beginner's Guide to Witchcraft: Part 1\". It is dusty but looks well-worn.",
+		"objectID" : 40,
+		"objectDialogue" : "None",
+		"objectType" : "item",
+		"consumable" : false
+	},
+	
+	
+	"41" : {
+		"objectName" : "planter",
+		"objectDescription" : "A planter box that sits on the kitchen windowsill. The plants inside aren't flowers, so she must be growing vegetables.",
+		"objectID" : 41,
+		"objectDialogue" : "None",
+		"objectType" : "decoration",
+		"consumable" : false
+	},
+	"42" : {
+		"objectName" : "table",
+		"objectDescription" : "A small, circular wooden table. It definitely needs to be refinished. Two similarly beat up chairs flank the table.",
+		"objectID" : 42,
+		"objectDialogue" : "None",
+		"objectType" : "decoration",
+		"consumable" : false
+	},
+	"43" : {
+		"objectName" : "chair",
+		"objectDescription" : "A flimsy looking wooden chair.",
+		"objectID" : 43,
+		"objectDialogue" : "None",
+		"objectType" : "object",
+		"consumable" : false
+	},
+	
+	
+	"44" : {
+		"objectName" : "bed",
+		"objectDescription" : "Shae's bed. There is no bed frame, it's just a mattress on the floor.",
+		"objectID" : 44,
+		"objectDialogue" : "None",
+		"objectType" : "object",
+		"consumable" : false
+	},
+	"45" : {
+		"objectName" : "clock",
+		"objectDescription" : "An old digital alarm clock. It rests on the floor next to the bed.",
+		"objectID" : 45,
+		"objectDialogue" : "None",
+		"objectType" : "decoration",
+		"consumable" : false
+	},
+
+	
+	"46" : {
+		"objectName" : "handcuffs",
+		"objectDescription" : "My trusty pair of handcuffs. I need these if I plan on arresting someone.",
+		"objectID" : 46,
+		"objectDialogue" : "None",
+		"objectType" : "item",
+		"consumable" : true
+	},
+	"47" : {
+		"objectName" : "handgun",
+		"objectDescription" : "My standard-issue Glock 19. I've never had to fire it, but it pays to be safe.",
+		"objectID" : 47,
+		"objectDialogue" : "None",
+		"objectType" : "item",
+		"consumable" : false
+	},
+	"48" : {
+		"nickname" : "Files on the victim",
+		"objectName" : "harry's_files",
+		"objectDescription" : "A compilation of information on the victim, Harry Kalbert. He was 43 years old, no wife, no kids, and worked at an aquatic pet store called AquaPets.",
+		"objectID" : 48,
+		"objectDialogue" : "None",
+		"objectType" : "item",
+		"consumable" : false
+	},
+	"49" : {
+		"nickname" : "Files on Jen",
+		"objectName" : "jen's_files",
+		"objectDescription" : "A compilation of information on Jen Speiler. Age: 35. Issued a citation for becoming belligerent with the victim and refusing to leave his workplace. Includes her address.",
+		"objectID" : 49,
+		"objectDialogue" : "None",
+		"objectType" : "item",
+		"consumable" : false	
+	},
+	
+	
+	"50" : {
+		"nickname" : "Audrey before you talk to her",
+		"objectName" : "Wentler",
+		"objectDescription" : "Audrey Wentler, head of the forensics lab. Her signature tie-dye lab coat and red hair are as bright and colorful as always.",
+		"objectID" : 50,
+		"objectDialogue" : "Audrey says, \"Hey, detectives! If you need anything from the crime scene tested, this is the place! Just give 'em to me and I'll take care of it for you. It gets so dreadfully boring around here when there's no tests to run.\"",
+		"objectType" : "person",
+		"consumable" : false
+	},
+	"51" : {
+		"nickname" : "Audrey after you talk to her",
+		"objectName" : "Wentler",
+		"objectDescription" : "Audrey Wentler, head of the forensics lab. Her signature tie-dye lab coat and red hair as bright and colorful as always.",
+		"objectID" : 51,
+		"objectDialogue" : "Audrey says, \"Hey, detectives! If you need anything from the crime scene tested, this is the place! Just give 'em to me and I'll take care of it for you. It gets so dreadfully boring around here when there's no tests to run.\"",
+		"objectType" : "person",
+		"consumable" : false
+	},
+	"52" : {
+		"objectName" : "fingerprint_kit",
+		"objectDescription" : "A white plastic box containing brushes and powder. Perfect for checking for fingerprints.",
+		"objectID" : 52,
+		"objectDialogue" : "None",
+		"objectType" : "item",
+		"consumable" : false
+	},
+	"53" : {
+		"nickname" : "Bleach bottle tested for prints",
+		"objectName" : "empty_bottle",
+		"objectDescription" : "An empty container of bleach. Has Jen Speiler's fingerprints on it.",
+		"objectID" : 53,
+		"objectDialogue" : "None",
+		"objectType" : "item",
+		"consumable" : false
+	},
+	"54" : {
+		"nickname" : "Shae's bookshelf after you found the book",
+		"objectName" : "bookshelf",
+		"objectDescription" : "The bookshelf contains some DVDs and some plain looking books labeled \"Beginner's guide to magic\"",
+		"objectID" : 54,
+		"objectDialogue" : "None",
+		"objectType" : "decoration",
+		"consumable" : false
+	},
+
+	
+	"1000" : {
+		"objectName" : "living_room",
+		"objectDescription" : "You can't see it from here.",
+		"objectID" : 1000,
+		"objectDialogue" : "None",
+		"objectType" : "location",
+		"consumable" : false
+	},
+	
+	"1001" : {
+		"objectName" : "morgue",
+		"objectDescription" : "You can't see it from here."
+		"objectID" : 1001,
+		"objectDialogue" : "None",
+		"objectType" : "location",
+		"consumable" : false
+	},
+	
+	"1002" : {
+		"objectName" : "harry's_house",
+		"objectDescription" : "You can't see it from here."
+		"objectID" : 1002,
+		"objectDialogue" : "None",
+		"objectType" : "location",
+		"consumable" : false
+	},
+	
+	"1003" : {
+		"objectName" : "kitchen",
+		"objectDescription" : "You can't see it from here."
+		"objectID" : 1003,
+		"objectDialogue" : "None",
+		"objectType" : "location",
+		"consumable" : false
+	},
+	
+	"1004" : {
+		"objectName" : "bedroom",
+		"objectDescription" : "You can't see it from here."
+		"objectID" : 1004,
+		"objectDialogue" : "None",
+		"objectType" : "location",
+		"consumable" : false
+	},
+	"1005" : {
+		"objectName" : "shae's_house",
+		"objectDescription" : "You can't see it from here."
+		"objectID" : 1005,
+		"objectDialogue" : "None",
+		"objectType" : "location",
+		"consumable" : false
+	},
+	"1006" : {
+		"nickname" : "shae's living room",
+		"objectName" : "living_room",
+		"objectDescription" : "You can't see it from here."
+		"objectID" : 1006,
+		"objectDialogue" : "None",
+		"objectType" : "location",
+		"consumable" : false
+	},
+	"1007" : {
+		"objectName" : "kitchen",
+		"objectDescription" : "You can't see it from here."
+		"objectID" : 1007,
+		"objectDialogue" : "None",
+		"objectType" : "location",
+		"consumable" : false
+	},
+	"1008" : {
+		"objectName" : "bedroom",
+		"objectDescription" : "You can't see it from here."
+		"objectID" : 1008,
+		"objectDialogue" : "None",
+		"objectType" : "location",
+		"consumable" : false
+	},
+	"1009" : {
+		"nickname" : "outside Harry's house",
+		"objectName" : "outside",
+		"objectDescription" : "It's a nice sunny day out there. I see my car parked outside next to the police cruiser."
+		"objectID" : 1009,
+		"objectDialogue" : "None",
+		"objectType" : "location",
+		"consumable" : false
+	},
+	"1010" : {
+		"nickname" : "outside Shae's house",
+		"objectName" : "outside",
+		"objectDescription" : "It's a nice sunny day out there, but I can't tell because Shae's house is in the middle of the densest forest I've ever seen."
+		"objectID" : 1010,
+		"objectDialogue" : "None",
+		"objectType" : "location",
+		"consumable" : false
+	},
+	"1011" : {
+		"nickname" : "at the police station",
+		"objectName" : "precinct",
+		"objectDescription" : "You can't see it from here."
+		"objectID" : 1011,
+		"objectDialogue" : "None",
+		"objectType" : "location",
+		"consumable" : false
+	},
+	"1012" : {
+		"nickname" : "The forensics lab",
+		"objectName" : "lab",
+		"objectDescription" : "You can't see it from here."
+		"objectID" : 1012,
+		"objectDialogue" : "None",
+		"objectType" : "location",
+		"consumable" : false
+	},
+	
+	
+	
+	
+	
+	"1100" : {
+		"objectName" : "car",
+		"objectDescription" : "You can't see it from here."
+		"objectID" : 1100,
+		"objectDialogue" : "None",
+		"objectType" : "location",
+		"consumable" : false
+	}
+}
